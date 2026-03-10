@@ -1,2 +1,2 @@
 # HelloWorld
-Hello World Project Sample Created By Employee NVT-4892
+Sample Project Created By Employee NVT-4892
